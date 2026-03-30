@@ -1,1 +1,27 @@
+Homework
+Instructions for locating homework results using the GitHub resource https://github.com/:
 
+
+1. Create an identifiable account or use an existing identifiable account, i.e. your user name = your real name
+
+2. Make it public
+
+3. Create a repository for the course assignment,
+
+for example: yourusername/DataAnalysis_2026
+
+
+
+4. Create a separate folder for each module,
+
+for example: Data Manipulation and Cleaning
+
+The contents of each folder:
+
+a. Readme file - description (assignment, data description, R version, procedures used, etc.)
+
+b. Source file with data
+
+c. File(s) with code
+
+d. File(s) with output data: analysis results/graphs
